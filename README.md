@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fadli</h1>
 <h3 align="center">A passionate Java developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadlighobith&label=Profile%20views&color=0e75b6&style=flat" alt="fadlighobith" /> </p>
-🌱 I’m currently learning Java, Spring Framework, and backend systems.
-💬 Ask me about Java
-📫 How to reach me fadligobith@gmail.com
-⚡ Fun fact I think I am funny
+🌱 I’m currently learning Java, Spring Framework, and backend systems. <br>
+💬 Ask me about Java <br>
+📫 How to reach me fadligobith@gmail.com <br>
+⚡ Fun fact I think I am funny <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
