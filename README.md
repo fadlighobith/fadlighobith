@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, Spring Framework, and backend systems 
-💬 Ask me about Java 
-⚡ Fun fact I think I am funny
+🌱 I’m currently learning Java, Spring Framework, and backend systems <br>
+💬 Ask me about Java <br>
+⚡ Fun fact I think I am funny <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fadlighobith&color=blue)
 
